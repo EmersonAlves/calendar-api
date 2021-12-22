@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "calendar-40a73",
-  "private_key_id": "4f7591a7d8264de4a776b41caea4ce903dd32f5a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOTdhq7do1RjqE\n7xLAsDMbTwde+3KNZtv7u08d0bMFvd1eOzCTZiIjWHQYdrGBFNo7fZz3Kn5gNplC\ntM2lkEwiU8HvmwjAsU/pxTpFow3dDkCSAdCMFi1ZnjrSbTJlA32blgWs8pNl/9Nm\nxPVwXxVNuj1Tu1OSYI0i4jolENP0lQfrRGatjGJKwSbL/0eCIE0p4q14BOsF3BGP\nx+CZ9Ik8IHNgYKYO82zTJDtnQvj7ajfzUVKZT/T124P89q2vFBXA50CAcT/IjwoR\naolEZmrtMEUNf0VsV+FXi1YtXo6t54vZbSPxPRpuWx6yBHo/tUQ1ZS6XIGpMH+zu\nBCnK1IPNAgMBAAECggEAJRRCmmYcj/obIG08+SlQP8LhXE3vhMmy805UqKPt3kah\nKj8JArc/mO8g3Qj8anJ5BLxPzJVtdXt0hs2esg+9zsn9RAYlCzSIapTCAMgiQiHH\nEGRZp07WBT51/EOIuIpmzcYS94QDhTXaKzKR83RLFEQ9W5Z5ibAPxnGlDehrGhTh\ngEGHaEzibfnN8AVIn8i3uxJc5F+UiSU2QH5pyVbanxiI3E148XDn/WOosVj5UhOA\nftUmMY/L+rch4ziMwoHUxAWmiCGAyYkn4Xse77nVSwEr9F8kl8RMIT7PkA9rIZqQ\nVv5YXmP49c10Ukwy184y9IcHfX9e+iRjMA3e86MLrwKBgQDGNNZMuKUDQpSxwmhn\nUhhnOfu/c3Wbuqoy1+4wPr7U1oSxnHXhc29oC5TmabWvjgKyvwP1SRBuScxzlZkJ\noqWL++ydcS1+1CQyIiVJJHr4GPO8NZz20y9kZwkleUNj7hQqjlHH2v9FbE/v7Mk2\nTWHYMXurfrpG20irAGUOHo5KVwKBgQC3zCrHvTTdmT3XSTWaI7PsgalkCKU2puxZ\nXe3/fAI/Vm1lkiQIBHcJhRYBc3Lv3kMTQ9LW9xg7q44RwVRzjuKgjvs+SJGRT8aM\nAkO4/MLMl56SOEEobJNTVnsOpxBc4zmRzA1jy+EXGcx8qWor2RCWJxEvvEWKRC8B\nKK3aHZgUewKBgDaosYRc0xywCsNuok4D5Ljq05L7ay5z7qWwyH3Df+q/8b3tMNDo\nfYuKzhgwhKsSFYpnhNbqvD492cTyN07h7JdK9PiCEpLMO+MbaX7fMY4ji2uWuV+T\n45jjlTEhXMU9DZCiyMi9ivIBKZY3jVGNS3NMSheEDiimJkcKB9Q59vFnAoGASwOt\nQjBa70aoEsHyeqKvwIt7EzTkGVYviJnplSiL0kX4CEiJJCyOWPhUbusrsfLI9Yfs\n+YeIAHKYXW7GhROAM3+n01fS8bfZlTMnaMzgxJftREhpb5JA3vag6u4Mo5yp1nOt\n01lW2RLSft62UocZWe8/+Hei+jex54suyaLiexkCgYBv3UEFn5ycsw2HEaqrjkDl\nEfXR6nB1+qqGdw4501kWej+y+qstibpQVrph6cYTGEZwUROBs11Yb4qPvi4Q2Wyd\nRb1b1Q2lWEK2Ro0DIeF3yl4OhDDFJNw92A4J22ye12Wj/4LAC+jomCyplkPu0MKx\no3WFo0OadDeSldgQs9JM8Q==\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fwm1l@calendar-40a73.iam.gserviceaccount.com",
-  "client_id": "100053944521139764402",
+  "project_id": "calendar",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fwm1l%40calendar-40a73.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }
